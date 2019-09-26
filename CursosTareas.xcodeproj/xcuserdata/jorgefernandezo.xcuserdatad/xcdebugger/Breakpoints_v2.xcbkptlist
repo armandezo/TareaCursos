@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CursosTareas/viewCursoVC.swift"
+            timestampString = "591219135.834931"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewCursoVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CursosTareas.viewCursoVC.nteo3.getter : Swift.Int"
+                  moduleName = "CursosTareas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorgefernandezo/Documents/CursosTareas/CursosTareas/viewCursoVC.swift"
+                  timestampString = "591219136.157396"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "102">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CursosTareas.viewCursoVC.nteo3.setter : Swift.Int"
+                  moduleName = "CursosTareas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorgefernandezo/Documents/CursosTareas/CursosTareas/viewCursoVC.swift"
+                  timestampString = "591219136.186771"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CursosTareas.viewCursoVC.nteo3.modify : Swift.Int"
+                  moduleName = "CursosTareas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorgefernandezo/Documents/CursosTareas/CursosTareas/viewCursoVC.swift"
+                  timestampString = "591219136.199706"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CursosTareas.viewCursoVC.nteo3.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CursosTareas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorgefernandezo/Documents/CursosTareas/CursosTareas/viewCursoVC.swift"
+                  timestampString = "591219136.204428"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CursosTareas.viewCursoVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CursosTareas.viewCursoVC"
+                  moduleName = "CursosTareas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorgefernandezo/Documents/CursosTareas/CursosTareas/viewCursoVC.swift"
+                  timestampString = "591219136.207927"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1890">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CursosTareas.viewCursoVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CursosTareas.viewCursoVC&gt;"
+                  moduleName = "CursosTareas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorgefernandezo/Documents/CursosTareas/CursosTareas/viewCursoVC.swift"
+                  timestampString = "591219136.213222"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1804">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
